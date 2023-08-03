@@ -6,7 +6,7 @@ return(
   ()=>{
     handleClick("7")
   }}
- className="w-[80px] h-20 bg-gray-100 hover:bg-[#d9d9d9] text-lg cursor-pointer border ">7</button>
+ className="w-[80px] h-20 bg-gray-100 hover:bg-[#ccc] text-lg cursor-pointer border ">7</button>
 <button onClick={
   ()=>{
     handleClick("8")
